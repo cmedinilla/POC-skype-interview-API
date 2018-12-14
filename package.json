@@ -1,0 +1,18 @@
+{
+  "name": "jwt-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "guid": "0.0.12",
+    "jsonwebtoken": "^8.4.0",
+    "node-fetch": "^2.3.0",
+    "sha256": "^0.2.0"
+  }
+}
